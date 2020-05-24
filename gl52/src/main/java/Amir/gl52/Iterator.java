@@ -1,4 +1,4 @@
-package Amir.gl51;
+package Amir.gl52;
 
 public interface Iterator<T> {
 	boolean hashNext();
