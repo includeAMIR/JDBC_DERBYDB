@@ -14,7 +14,7 @@ public class App implements Serializable{
     /**
 	 * 
 	 */
-	private static final long serialVersionUID = 2888135629406704383L;
+	private static final long serialVersionUID =  2888135629406704383L;
 
 	public static void main( String[] args ) throws FileNotFoundException, IOException
     {
